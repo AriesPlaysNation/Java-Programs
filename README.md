@@ -1,4 +1,4 @@
-# Java-Projects
+# Java-Programs
 My display of Java programming
 
 <h1>M01:</h1>
