@@ -35,3 +35,10 @@ My display of Java programming
 
 <h2>taxTable</h2>
 <p>Example tax table to be used in later applications</p>
+
+<h1>M04</h1>
+<h2>calculator and calculator2</h2>
+<p>Using the command line you can enter and equation and the program will calculate for you</p>
+
+<h2>elimDuplicates</h2>
+<p>Allow a user to enter 10 numbers into an array and then the program lets you know all the singular numbers (removes duplicates)</p>
