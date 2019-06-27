@@ -25,3 +25,13 @@ My display of Java programming
 
 <h2>Pentagon</h2>
 <p>Ask the user for a radius and the app configures the area of a pentagon and displays back to the user.</p>
+
+<h1>M03</h1>
+<h2>feetToMeters</h2>
+<p>Converts feet to meters and meters to feet</p>
+
+<h2>highestNums</h2>
+<p>Ask user for a set of numbers and logs back to the user the 2 highest numbers that were entered</p>
+
+<h2>taxTable</h2>
+<p>Example tax table to be used in later applications</p>
